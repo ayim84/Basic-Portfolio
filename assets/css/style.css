@@ -69,8 +69,28 @@ img{
     margin-right: 30px;
 }
 
-p{
+.bio{
     line-height: 2;
+    color: #777777;
+}
+
+#contact-form{
+    padding: 20px 0px;
+    color: #4aaaa5;
+    font-size: 28px;
+}
+
+.name-email{
+    width: 100%;
+    height: 20px;
+}
+
+#message{
+    width: 100%;
+    height: 160px;
+}
+
+form{
     color: #777777;
 }
 
